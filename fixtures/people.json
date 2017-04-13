@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "name": "John Smith 1",
+            "age": 50,
+            "gender": "male"
+        },
+        {
+            "name": "Jane Smith 1",
+            "age": 45,
+            "gender": "female"
+        },
+        {
+            "name": "Laura Smith 1",
+            "age": 10,
+            "gender": "female"
+        }
+    ]
+}

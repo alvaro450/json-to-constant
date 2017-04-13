@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Take a *.json file and generate a *.ts file containing a constant",
   "main": "index.js",
+  "bin": {
+    "json-to-constant": "./bin/json-to-constant"
+  },
   "scripts": {
     "clean": "rimraf fixtures/*.ts fixtures/**/*.ts",
     "test": "test",

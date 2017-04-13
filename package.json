@@ -1,0 +1,30 @@
+{
+  "name": "json-to-constant",
+  "version": "0.1.0",
+  "description": "Take a *.json file and generate a *.ts file containing a constant",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf fixtures/*.ts fixtures/**/*.ts",
+    "test": "test",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "json",
+    "constant",
+    "typescript",
+    "fixtures",
+    "fixture"
+  ],
+  "author": "Alvaro J Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.1",
+    "through2": "^2.0.1",
+    "yargs": "^7.0.2"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.1",
+    "standard-version": "^4.0.0"
+  }
+}

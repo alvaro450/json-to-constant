@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.0"></a>
+# 0.2.0 (2017-12-15)
+
+
+### Bug Fixes
+
+* added callback to async function to remove deprecation notice ([dd09e99](https://github.com/alvaro450/json-to-constant/commit/dd09e99))
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/alvaro450/json-to-constant/compare/v0.1.4...v0.1.5) (2017-10-18)
 

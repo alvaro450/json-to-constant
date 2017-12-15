@@ -3,6 +3,7 @@
 Create constants out of json files to be use as fixtures for unit tests, or however you see fit.
 
 The available command line options are:
+
 * ***--source*** (alias: **-s**, required) {string} - source folder path
 * ***--output*** (alias: **-o**, optional) {string} - output folder path
     * If no output is provided source is used as the output folder.
@@ -17,6 +18,7 @@ This is a simple node program that takes Json files and create TS files exportin
     "gender": "male"
 }
 ```
+
 * Created ts file
 ``` typescript
     export constant people = {
@@ -26,12 +28,11 @@ This is a simple node program that takes Json files and create TS files exportin
     };
 ```
 
-
 ## Using it via npm scripts ##
 ```
 {
     "scripts": {
-        "fixtures": "node_modules/json-to-constant -s fixtures"
+        "fixtures": "json-to-constant -s fixtures"
     }
 }
 ```

@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.3.0"></a>
+# 0.3.0 (2017-12-18)
+
+
+### Bug Fixes
+* **bin:** updated bin path in package.json ([187f262](https://github.com/alvaro450/json-to-constant/commit/187f262))
+
+
 <a name="0.2.0"></a>
 # 0.2.0 (2017-12-15)
 

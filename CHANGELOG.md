@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# 1.0.0 (2017-12-18)
+
+
+### Bug Fixes
+
+* added callback to async function to remove deprecation notice ([dd09e99](https://github.com/alvaro450/json-to-constant/commit/dd09e99))
+* **bin:** updated bin path in package.json ([187f262](https://github.com/alvaro450/json-to-constant/commit/187f262))
+* updated main file used for bin, to have #!/usr/bin/env node at the top ([f23bf55](https://github.com/alvaro450/json-to-constant/commit/f23bf55))
+
+
+### Features
+
+* Initial implementation. ([60fa7a3](https://github.com/alvaro450/json-to-constant/commit/60fa7a3))
+
+
+### BREAKING CHANGES
+
+* initial release
+
+
+
 <a name="0.3.0"></a>
 # 0.3.0 (2017-12-18)
 

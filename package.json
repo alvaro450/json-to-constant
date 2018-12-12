@@ -1,6 +1,6 @@
 {
   "name": "json-to-constant",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Take a *.json file and generate a *.ts file containing a constant",
   "main": "index.js",
   "bin": {

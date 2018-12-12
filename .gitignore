@@ -1,3 +1,4 @@
 node_modules
 fixtures/**/*.ts
 fixtures/*.ts
+test-folder
